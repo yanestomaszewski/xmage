@@ -1,0 +1,12 @@
+HU3HU3 BR:45.178.180.145:17171
+xmage.de (Europe), first official server :xmage.de:17171
+eu.xmage.today (Europe), second official server :eu.xmage.today:17171
+us.xmage.today (USA), official server :us.xmage.today:17171
+beta.xmage.today (USA), BETA server :beta.xmage.today:17171
+XMage Players MTG (USA) :xmageplayersmtg.ddns.net:17171
+XMage NL Server (Europe), Netherlands :84.106.103.28:17171
+XMage China (Asia) :xmage.vip:17171
+mtg.powersofwar.com (USA) :mtg.powersofwar.com:17171
+XMage.tahiti (Europe) :xmage.tahiti.one:443
+Seedds Server (Asia) :115.29.203.80:17171
+localhost (connect to your local server) :localhost:17171
